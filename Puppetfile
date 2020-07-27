@@ -1,5 +1,10 @@
 forge 'https://forge.puppet.com'
 
+mod 'puppet-freebsd',
+  git: 'git@github.com:masumndc1/puppet-freebsd.git'
+  branch: 'master'
+
+#  commit: '1b6f89afdde0df7f9433a163d5c4b5328eac5779'
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
 #mod 'puppetlabs/inifile', '3.0.0'
