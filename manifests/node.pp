@@ -1,3 +1,3 @@
-node production {
+node prod {
   include role::base
 }
