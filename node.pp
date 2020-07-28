@@ -1,3 +1,3 @@
 node prod {
-  include role::base
+  include freebsd::role::production
 }
