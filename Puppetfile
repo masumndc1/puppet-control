@@ -2,7 +2,7 @@ forge 'https://forge.puppet.com'
 
 mod 'puppet-freebsd',
   git:    'git@github.com:masumndc1/puppet-freebsd.git',
-  commit: 'bbe8e5d75ff78c6d14507d416b2873772bcac325'
+  commit: '591e60a7b3c1a06456ccc34258bd331cf33862d7'
 
 #  commit: '1b6f89afdde0df7f9433a163d5c4b5328eac5779'
 # Modules from the Puppet Forge
