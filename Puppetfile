@@ -1,7 +1,7 @@
 forge 'https://forge.puppet.com'
 
 mod 'puppet-freebsd',
-  git: 'git@github.com:masumndc1/puppet-freebsd.git'
+  git: 'git@github.com:masumndc1/puppet-freebsd.git',
   branch: '43d90546534f3ed85ea57019157eb179165647bd'
 
 # Modules from the Puppet Forge
