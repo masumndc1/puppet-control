@@ -1,3 +1,3 @@
 node devel {
-  include role::base
+  include freebsd
 }
