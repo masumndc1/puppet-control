@@ -1,3 +1,6 @@
-node prod {
-  include freebsd
+node /*dev/ {
+  include infra
+
+node /*prod/ {
+  include infra
 }
