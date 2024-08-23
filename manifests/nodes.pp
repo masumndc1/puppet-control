@@ -1,6 +1,6 @@
-node /*dev/ {
+node /^sys*dev*$/ {
   include infra
 
-node /*prod/ {
+node /^sys*prod*$/ {
   include infra
 }
