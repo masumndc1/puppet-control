@@ -1,3 +1,3 @@
-node devel {
-  include freebsd
+node /*dev/{
+  include infra
 }
