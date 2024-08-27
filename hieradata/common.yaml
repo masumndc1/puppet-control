@@ -1,2 +1,10 @@
 ---
 localuser: "masum"
+packages: [ 'vim',
+            'git',
+            'iftop',
+            'htop',
+            'snapd',
+            'gcc',
+            'clang'
+          ]
