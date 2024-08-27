@@ -24,3 +24,9 @@ node 'sys-ubu22-dev2' {
 node 'sys-ubu22-prod' {
   include infra
 }
+
+node 'puppetserver' {
+  include infra::packages
+  include infra::zsh
+  include infra::neovim
+}

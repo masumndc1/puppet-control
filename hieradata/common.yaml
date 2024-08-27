@@ -6,5 +6,6 @@ packages: [ 'vim',
             'htop',
             'snapd',
             'gcc',
-            'clang'
+            'clang',
+            'curl'
           ]
