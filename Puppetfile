@@ -5,3 +5,4 @@ mod 'puppet-infra',
   :ref => 'master'
 
 mod 'puppetlabs-vcsrepo', '6.1.0'
+mod 'puppetlabs-stdlib', '9.6.0'
